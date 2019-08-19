@@ -26,7 +26,7 @@ with examples, of the data that you will be using, even if it is only Foursquare
 
 
 ** New York City Data:
-https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#8c732154-5012-9afe-d0cd-ba3ffc813d5a_**
+https://cocl.us/new_york_dataset
 
 ** Venues and Venues Rating is supplied from Foursquare API
 
